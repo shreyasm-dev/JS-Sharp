@@ -7,6 +7,4 @@ License - https://github.com/shreyasm-dev/JS-Sharp/blob/master/LICENSE
   Docs -
 </h2>
 
-
-print keyword - print out a value to the editor console
-<input>
+*print* keyword - print out a value to the editor console
