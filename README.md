@@ -7,5 +7,5 @@ License - https://github.com/shreyasm-dev/JS-Sharp/blob/master/LICENSE
   Docs -
 </h2>
 Note: Remember, spaces are mandatory, you need at least one space in between terms
-<br>
+<hr>
 *String* keyword - Create a new string variable
