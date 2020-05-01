@@ -6,12 +6,6 @@ License - https://github.com/shreyasm-dev/JS-Sharp/blob/master/LICENSE
 <h2>
   Docs -
 </h2>
-<style>
-.code {
-  width: 100%;
-  background-color: lightgray;
-  border-radius: 5px;
-}
-</style>
-<span class='code'>Test</span>
+
+<span style='color:white'>Test</span>
 print keyword - print out a value to the editor console
