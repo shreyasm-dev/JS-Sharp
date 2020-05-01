@@ -7,5 +7,5 @@ License - https://github.com/shreyasm-dev/JS-Sharp/blob/master/LICENSE
   Docs -
 </h2>
 
-<span style='color:white'>Test</span>
+
 print keyword - print out a value to the editor console
