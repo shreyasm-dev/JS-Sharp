@@ -6,5 +6,6 @@ License - https://github.com/shreyasm-dev/JS-Sharp/blob/master/LICENSE
 <h2>
   Docs -
 </h2>
-
-*print* keyword - print out a value to the editor console
+Note: Remember, spaces are mandatory, you need at least one space in between terms
+<br>
+*String* keyword - Create a new string variable
