@@ -9,10 +9,10 @@ License - https://github.com/shreyasm-dev/JS-Sharp/blob/master/LICENSE
 Note: Remember, spaces are mandatory, you need at least one space in between terms
 <hr>
 
-> `println` keyword - print text with newline before AND after
+`println` keyword - print text with newline before AND after
 
-> Input - `println "Hello" + "World"`, Output - `Hello World!`
+`print` keyword - print text with no newlines unless specified with "\n"
 
-> `print` keyword - print text with no newlines unless speicfied with "\n"
+`printColor` keyword - print colored text with no newlines unless specified with "\n"
 
-> `String` keyword - Create a new string variable 
+`String` keyword - Create a new string variable
