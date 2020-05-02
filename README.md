@@ -10,9 +10,9 @@ Note: Remember, spaces are mandatory, you need at least one space in between ter
 <hr>
 
 > `println` keyword - print text with newline before AND after
-<br>
-Example - `println "Hello" + "World"`
-<br>
+
+> Input - `println "Hello" + "World"`, Output - `Hello World!`
+
 > `print` keyword - print text with no newlines unless speicfied with "\n"
 
 > `String` keyword - Create a new string variable 
