@@ -9,4 +9,6 @@ License - https://github.com/shreyasm-dev/JS-Sharp/blob/master/LICENSE
 Note: Remember, spaces are mandatory, you need at least one space in between terms
 <hr>
 <br>
+*println keyword - print text with newline before AND after*
+*print keyword - print text with no newlines unless speicfied with "\n"*
 *String* keyword - Create a new string variable
