@@ -11,8 +11,8 @@ Note: Remember, spaces are mandatory, you need at least one space in between ter
 
 `println` keyword - print text with newline before AND after
 
-`print` keyword - print text with no newlines unless specified with "\n"
+`print` keyword - print text with no newlines
 
-`printColor` keyword - print colored text with no newlines unless specified with "\n"
+`printColor` keyword - print colored text with no newlines
 
 `String` keyword - Create a new string variable
