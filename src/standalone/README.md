@@ -5,6 +5,8 @@ Here you can find a script where you will find a function. Only use this in a br
 
 ```javascript
  JS_Sharp(`println "insert code here"`, document.getElementById('myDiv').innerHTML, myCounter)
+ 
+ var myCounter = 0;
  console.log = function(input) {
   console.log(input)
   document.getElementById('myDiv').innerHTML += "<br/>" + input + "<br/>"
