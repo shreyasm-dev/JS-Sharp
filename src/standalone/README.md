@@ -1,5 +1,8 @@
 <h1>JS#</h1>
 Here you can find a script where you will find a function. You can then link the file and pass in JS# code to the function. You must also pass in an element (and its innerHTML/value to use as the virtual console), and set up a console in an element (example shown below). The third argument is optional and only if you want line number on errors.
+
+
+
 ```javascript
  JS_Sharp(`println "insert code here"`, document.getElementById('myDiv').innerHTML, myCounter)
  console.log = function(input) {
