@@ -4,6 +4,9 @@ Here you can find a script where you will find a function. Only use this in a br
 
 
 ```javascript
+
+ var myCounter = 1
+ 
  JS_Sharp(`println "insert code here"`, document.getElementById('myDiv').innerHTML, myCounter)
  
  var myCounter = 0;
