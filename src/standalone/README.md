@@ -14,7 +14,7 @@ You can also see what variables and processes are going on.
 ```javascript
 
  var myCounter = 1
- var code = JS_Sharp(`println "insert code here"`, document.getElementById('myDiv'), myCounter)
+ var code = new JS_Sharp(`println "insert code here"`, document.getElementById('myDiv'), myCounter)
  console.log(code.processes)
  console.log(code.variables)
 ```
