@@ -7,17 +7,20 @@ Here you can find a script where you will find a function. Only use this in a br
 
  var myCounter = 1
  new JS_Sharp(`println "insert code here"`, document.getElementById('myDiv'), myCounter)
+ 
 ```
 
-You can also see what variables and processes are going on.
+You can also see what variables and processes have been declared.
 
 ```javascript
 
  var myCounter = 1
  var code = new JS_Sharp(`println "insert code here"`, document.getElementById('myDiv'), myCounter)
- console.log(code.processes)
- console.log(code.variables)
+ console.log(JSON.stringify(Object.getOwnPropertyNames(code.processes))) //Object.getOwnPropertyNames() is recommended because it returns the values in a format that the interpreter can read.
+ console.log(JSON.stringify(code.variables))
+ 
 ```
+
 Because the console relies on innerHTML/value of an element, wait until the page loads to execute it. 
 <br><hr><br><br>
 Remember that JS# is extremely strict about spaces and newlines.
