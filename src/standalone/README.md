@@ -18,5 +18,6 @@ You can also see what variables and processes are going on.
  console.log(code.processes)
  console.log(code.variables)
 ```
-
+Because the console relies on innerHTML/value of an element, wait until the page loads to execute it. 
+<br><hr><br><br>
 Remember that JS# is extremely strict about spaces and newlines.
